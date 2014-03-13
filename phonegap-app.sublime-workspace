@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vi",
+				"visible = false;"
+			],
+			[
+				"balloo",
+				"balloon2Box"
+			],
+			[
+				"crea",
+				"createjs.Tween.get(obj).to({x:0, y:0},500);"
+			],
+			[
+				"visi",
+				"visible = true;"
+			],
+			[
+				"get",
+				"getTransformedBounds().width;"
+			],
+			[
+				"remov",
+				"removeChild();"
+			],
+			[
+				"remo",
+				"removeAllEventListeners();"
+			],
+			[
+				"se",
+				"setTimeout(function(){},500);"
+			],
+			[
+				"bb",
+				"bbSpeechLeft"
+			],
+			[
+				"ge",
+				"getBounds().width;"
+			],
+			[
+				"new",
+				"new createjs.Container();"
+			],
+			[
+				"cur",
+				"cursor = \"auto\";"
+			],
+			[
+				"visibl",
+				"visible = false;"
+			],
+			[
+				"add",
+				"addChild();"
+			],
+			[
+				"remove",
+				"removeAllEventListeners();"
+			],
+			[
+				"spee",
+				"speedFactor"
+			],
+			[
+				"set",
+				"setTimeout(function(){},500);"
+			],
+			[
+				"prepare",
+				"prepareProgressArr"
+			],
+			[
+				"scal",
+				"scaleY = 1;"
+			],
+			[
+				"loa",
+				"loader.getResult(\"man_id\")"
+			],
+			[
+				"check",
+				"checkArr"
+			],
+			[
+				"prepar",
+				"prepareProgressArr"
+			],
+			[
+				"chair",
+				"chairArrXY"
+			],
+			[
+				"rem",
+				"removeAllEventListeners();"
+			],
+			[
+				"lo",
+				"loader.getResult(\"man_id\")"
+			],
+			[
+				"on",
+				"on(\"click\", func);"
+			],
+			[
+				"chairBox",
+				"chairBoxBg"
+			],
+			[
+				"grap",
+				"graphics.setStrokeStyle(1).beginStroke(\"color\")"
+			],
+			[
+				"cre",
+				"new createjs.Shape();"
+			],
+			[
+				"load",
+				"loader.getResult(\"man_id\")"
+			],
+			[
+				"restack",
+				"restackNavMenu"
+			],
+			[
+				"text",
+				"textAlign = \"center\";"
+			],
+			[
+				"create",
+				"createjs.Tween.get(obj).to({x:0, y:0},500);"
+			],
+			[
+				"s4Men",
+				"s4MenuBg"
+			],
+			[
+				"re",
+				"regX"
+			],
+			[
+				"ne",
+				"new createjs.Container();"
+			],
+			[
+				"nw",
+				"new createjs.Container();"
+			],
+			[
+				"picture",
+				"pictureBox"
+			],
+			[
+				"dragObj",
+				"dragObjNum"
+			],
+			[
+				"picSlo",
+				"picSlotArr"
+			],
+			[
+				"picSlot",
+				"picSlotBox"
+			],
+			[
+				"pictu",
+				"pictureArrXY"
+			],
+			[
+				"show",
+				"showScene3n5n6"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/emj135/.config/sublime-text-2/Packages/CSS/css_completions.py",
+		"/home/emj135/.config/sublime-text-2/Packages/HTML/html_completions.py",
+		"/home/emj135/.config/sublime-text-3/Packages/HTML5.sublime-completions",
+		"/home/emj135/.config/sublime-text-2/Packages/HTML/HTML.sublime-completions",
+		"/home/emj135/.config/sublime-text-3/Packages/CREATEJS.sublime-completions",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/webrtl/inde.html",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/arvie-andal/educ-cw/core/new-codes-j.js",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/arvie-andal/educ-cw/core/main-j.js",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/arvie-andal/educ-cw/core/classes.js",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/arvie-andal/educ-cw/css/common-c.css",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/arvie-andal/educ-cw/index.html",
+		"/home/emj135/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/emj135/.config/sublime-text-3/Cache/HTML/HTML.tmLanguage.cache",
+		"/home/emj135/.config/sublime-text-3/Cache/HTML/Symbol List - ID.tmPreferences.cache"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"genTime",
+			"gentime",
+			"gen",
+			"speechMa",
+			"clear",
+			"showScene3n6",
+			"showScene4n6",
+			"showScene3n7",
+			"showScene2n4",
+			"showScene3n8",
+			"hatForChair",
+			"hatForChairArr",
+			"hatBox",
+			"picSlotArr",
+			"picSlotBox",
+			"ballForChairArr",
+			"check",
+			"arrowFoldRight",
+			"picSlotBox",
+			"        ////if(!area2Stat) s4n2Func1();\n        ////else s4n2Func2();",
+			"c",
+			"Balloon",
+			"picturSlot",
+			"picture",
+			"pictureSlot",
+			"table",
+			"s4n2Func1",
+			"showScene4n1",
+			"s4n1",
+			"s3n5n1",
+			"s3n3",
+			"s3n2",
+			"3n2",
+			"as we",
+			"Count with me",
+			"Count with me as",
+			"The user will count with Dad as they",
+			"If you’re ready to count",
+			"sceneman",
+			" If you",
+			" If you’re ready to count",
+			"Mom and Dad",
+			"prepareProgressArr",
+			"motherHead",
+			"box.rem",
+			"arrowFol",
+			"area2Stat",
+			"motherHead",
+			"chairBox1",
+			"c890",
+			"Class890",
+			"c890",
+			"Class890",
+			"showScene3n6",
+			"objw",
+			"showScene2n6",
+			"starBox",
+			"addStar",
+			"showScene3(",
+			"s3n4",
+			"add star",
+			"addStar",
+			"dragObj",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hatForChairArr",
+			"prepareProgArr",
+			"chairBox",
+			"chairp",
+			"Chair",
+			"btnp",
+			"Button",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "phonegap-app.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+   <title>Demo Application</title>
+   <meta charset="utf-8"> 
+   <link type="text/css" rel="stylesheet" href="jquery-mobile/jquery.mobile-1.4.2.min.css">
+   <link type="text/css" rel="stylesheet" href="core/common.css">
+   <script type="text/javascript" src="lib/jquery-2.1.0.min.js"></script>
+   <script type="text/javascript" src="lib/jquery-2.1.0.min.map"></script>
+   <script src="jquery-mobile/jquery.mobile-1.4.2.min.js"></script>
+</head>
+<body>
+	<!-- Main page -->
+	<section data-role="page" id="main" data-theme="b"> 
+		<header data-role="header"> 
+		   	<h1>Main page</h1> 
+		</header> 
+
+		<article data-role="content">
+			<img class="logo" src="img/pup-logo.png" alt="pup-logo.png">
+
+			<img class="hero-img" src="img/obelisk.jpg" alt="obelisk.jpg">
+
+			<p class="hero-text">
+				PUP Obelisk			
+			</p>
+
+			<div data-role="controlgroup" data-direction="horizontal">
+			   	<a href="#about" data-role="button" data-transition="flow">About</a>
+			  	<a href="#list" data-role="button" data-transition="flow">List</a>
+			</div>          
+			<a id="signIn" href="#popupLogin" data-rel="popup" data-position-to="window" class="ui-btn ui-corner-all ui-shadow ui-icon-check ui-btn-b" data-transition="pop">Sign in</a>
+
+			<div data-role="popup" id="popupLogin" data-theme="a" class="ui-corner-all">
+			    <form>
+			        <div style="padding:10px 20px;">
+			            <h3>Please sign in</h3>
+			            <label for="un" class="ui-hidden-accessible">Username:</label>
+			            <input type="text" name="user" id="un" value="" placeholder="username" data-theme="a">
+			            <label for="pw" class="ui-hidden-accessible">Password:</label>
+			            <input type="password" name="pass" id="pw" value="" placeholder="password" data-theme="a">
+			            <button type="submit" class="ui-btn ui-corner-all ui-shadow ui-btn-b ui-btn-icon-left ui-icon-check">Submit</button>
+			        </div>
+			    </form>
+			</div>
+
+		</article>   
+	</section>
+
+
+	<!-- Page 2 -->
+	<section data-role="page" id="about" data-theme="b">
+	   <header data-role="header" data-add-back-btn="true">
+	      <h1>About</h1>
+	   </header>
+	   <article data-role="content">
+			<p>
+				The Polytechnic University of the Philippines (PUP) is a government educational institution governed by Republic Act Number 8292 known as the Higher Education Modernization Act of 1997, and its Implementing Rules and Regulations contained in the Commission on Higher Education Memorandum Circular No. 4, series 1997. PUP is one of the country's highly competent educational institutions. The PUP Community is composed of the Board of Regents, University Officials, Administrative and Academic Personnel, Students, various Organizations, and the Alumni.
+
+				<br/><br/>
+
+				Governance of PUP is vested upon the Board of Regents, which exercises policy-making functions to carry out the mission and programs of the University by virtue of RA 8292 granted by the Commission on Higher Education. The University is administered by an appointed President by virtue of RA 8292 and is assisted by an Executive Vice President and the Vice Presidents for Academic Affairs, Student Services, Administration, Research, Extension and Development, and Finance.
+
+				<br/><br/>
+
+				This institution started as the Manila Business School (MBS), founded in October 19, 1904 as part of the city school system under the superintendence of C.A. O’Reilley, which responds to the demand for training personnel for government service and the felt need to provide skills essential for private employment. In 1908, it was renamed as Philippine School of Commerce (PSC) and merged with the Philippine Normal School (PNS) in 1933 to 1946. By virtue of Republic Act 778, the PSC was again changed to Philippine College of Commerce (PCC) in 1952. Subsequently, the Philippine College of Commerce (PCC) was converted into a chartered state university, now known as the Polytechnic University of the Philippines by virtue of Presidential Decree Number 1341 issued by the President of the Philippines on April 1, 1978.
+			</p>
+			<a href="#main" data-role="button" data-transition="reverse flow">Back to Main</a>
+	   </article> 
+	</section>
+
+
+	<!-- Page 3 -->
+	<section data-role="page" id="list" data-theme="b">
+		<header data-role="header" data-add-back-btn="true">
+		  <h1>List</h1>
+		</header>
+		<article data-role="content">
+			<ul data-role="listview" data-filter="true">
+				<li data-role="list-divider">Group A</li>
+					<li>Argentina</li>
+					<li>Nigeria</li>
+					<li>England</li>
+					<li>Japan</li>
+				<li data-role="list-divider">Group B</li>
+					<li>United States</li>
+					<li>Mexico</li>
+					<li>Korea</li>
+					<li>Greece</li>
+				<li data-role="list-divider">Group C</li>
+					<li>Germany</li>
+					<li>Finland</li>
+					<li>Chile</li>
+					<li>South Africa</li>
+			</ul>
+
+			<a href="#main" class="backToMain" data-role="button" data-transition="reverse flow">Back to Main</a>
+	   	</article> 
+
+	</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body> 
+</html>

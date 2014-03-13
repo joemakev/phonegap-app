@@ -1,0 +1,8 @@
+#main .hero-text {text-align:center;}
+#main .logo, #main .hero-img {display:block; margin:0 auto 20px; max-width:100%; height:auto;}
+#main .hero-img {width:250px;}
+#main .logo {width:100px;}
+.backToMain {display:block; margin-top:30px;}
+#signIn {margin-top:20px;}
+
+#about p {text-align:left;}
