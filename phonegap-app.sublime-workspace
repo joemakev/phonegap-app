@@ -204,6 +204,7 @@
 	},
 	"file_history":
 	[
+		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/core/main.js",
 		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/v.html",
 		"/media/emj135/FILES/dload/01-main-files/files-webd/mobile-app/jquery-mobile/jquery.mobile-1.4.2/demos/popup/index.html",
 		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/core/common.css",
@@ -239,6 +240,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"flow",
 			"genTime",
 			"gentime",
 			"gen",
@@ -310,6 +312,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"slide",
 			"hatForChairArr",
 			"prepareProgArr",
 			"chairBox",
