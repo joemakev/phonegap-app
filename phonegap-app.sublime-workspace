@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
 				"vi",
 				"visible = false;"
 			],
@@ -128,10 +132,6 @@
 				"restackNavMenu"
 			],
 			[
-				"text",
-				"textAlign = \"center\";"
-			],
-			[
 				"create",
 				"createjs.Tween.get(obj).to({x:0, y:0},500);"
 			],
@@ -177,17 +177,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1143,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "",
 	"command_palette":
 	{
@@ -215,6 +204,10 @@
 	},
 	"file_history":
 	[
+		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/v.html",
+		"/media/emj135/FILES/dload/01-main-files/files-webd/mobile-app/jquery-mobile/jquery.mobile-1.4.2/demos/popup/index.html",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/core/common.css",
+		"/media/emj135/FILES/xampp/htdocs/htd-files/pup/phonegap-app/vdebug.html",
 		"/home/emj135/.config/sublime-text-2/Packages/CSS/css_completions.py",
 		"/home/emj135/.config/sublime-text-2/Packages/HTML/html_completions.py",
 		"/home/emj135/.config/sublime-text-3/Packages/HTML5.sublime-completions",
@@ -332,50 +325,13 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1143,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								437,
-								437
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 27.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"layout":
 	{
@@ -404,7 +360,6 @@
 	{
 		"height": 0.0
 	},
-	"project": "phonegap-app.sublime-project",
 	"replace":
 	{
 		"height": 64.0
